@@ -16,6 +16,7 @@ public class App
     }
 
     private final String getMessage() {
+        System.out.println("this is it");
         return message;
     }
 
